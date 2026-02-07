@@ -1,0 +1,7 @@
+[submodule "digitransit-ui"]
+	path = digitransit-ui
+	url = git@github.com:szaionz/digitransit-ui.git
+	branch = dev
+[submodule "israel-map-server"]
+	path = israel-map-server
+	url = git@github.com:szaionz/israel-map-server.git
